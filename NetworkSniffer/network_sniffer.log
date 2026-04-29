@@ -1,0 +1,112 @@
+2026-01-26 20:19:53,154 - INFO - ==================================================
+2026-01-26 20:19:53,154 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:19:53,158 - INFO - ==================================================
+2026-01-26 20:33:37,560 - INFO - ==================================================
+2026-01-26 20:33:37,560 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:33:37,561 - INFO - ==================================================
+2026-01-26 20:34:40,740 - INFO - ==================================================
+2026-01-26 20:34:40,741 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:34:40,743 - INFO - ==================================================
+2026-01-26 20:45:43,262 - INFO - ==================================================
+2026-01-26 20:45:43,262 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:45:43,263 - INFO - ==================================================
+2026-01-26 20:47:00,691 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: UDP (Source: 192.168.xxx.xxx, Dest: 185.125.xxx.xxx)
+2026-01-26 20:47:02,745 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: UDP (Source: 185.125.xxx.xxx, Dest: 192.168.xxx.xxx)
+2026-01-26 20:47:07,165 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.16.1, Dest: 192.168.25.112)
+2026-01-26 20:47:07,166 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.25.112, Dest: 192.168.16.1)
+2026-01-26 20:47:07,737 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.25.112, Dest: 192.168.16.1)
+2026-01-26 20:47:07,739 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.16.1, Dest: 192.168.25.112)
+2026-01-26 20:48:44,493 - INFO - ==================================================
+2026-01-26 20:48:44,494 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:48:44,494 - INFO - ==================================================
+2026-01-26 20:50:50,089 - INFO - ==================================================
+2026-01-26 20:50:50,090 - INFO - 
+    NETWORK SNIFFER - LEGAL NOTICE
+    ================================
+    
+    This tool is for authorized network security testing ONLY.
+    
+    REQUIREMENTS:
+    - Only use on networks you own or have explicit written permission
+    - Follow all applicable laws (GDPR, CCPA, etc.)
+    - Obtain proper authorization before monitoring
+    - Handle personal data according to privacy regulations
+    - Maintain audit trails of all monitoring activities
+    
+    UNAUTHORIZED USE IS ILLEGAL AND PUNISHABLE BY LAW.
+    
+2026-01-26 20:50:50,091 - INFO - ==================================================
+2026-01-26 20:52:00,092 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: UDP (Source: 192.168.xxx.xxx, Dest: 185.125.xxx.xxx)
+2026-01-26 20:52:02,149 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: UDP (Source: 185.125.xxx.xxx, Dest: 192.168.xxx.xxx)
+2026-01-26 20:52:06,630 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.16.1, Dest: 192.168.25.112)
+2026-01-26 20:52:06,632 - INFO - [LOW] Protocol Anomaly: Unusual protocol detected: ARP (Source: 192.168.25.112, Dest: 192.168.16.1)

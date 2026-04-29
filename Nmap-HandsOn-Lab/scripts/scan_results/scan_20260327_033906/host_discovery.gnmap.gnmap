@@ -1,0 +1,2 @@
+# Nmap 7.94SVN scan initiated Fri Mar 27 03:39:06 2026 as: nmap -sn -oG 192.168.56.0/24 -oA ./scan_results/scan_20260327_033906/host_discovery.gnmap
+# Nmap done at Fri Mar 27 03:39:06 2026 -- 0 IP addresses (0 hosts up) scanned in 0.02 seconds

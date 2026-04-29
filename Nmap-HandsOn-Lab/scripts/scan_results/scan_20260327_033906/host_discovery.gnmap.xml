@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.94SVN scan initiated Fri Mar 27 03:39:06 2026 as: nmap -sn -oG 192.168.56.0/24 -oA ./scan_results/scan_20260327_033906/host_discovery.gnmap -->
+<nmaprun scanner="nmap" args="nmap -sn -oG 192.168.56.0/24 -oA ./scan_results/scan_20260327_033906/host_discovery.gnmap" start="1774571946" startstr="Fri Mar 27 03:39:06 2026" version="7.94SVN" xmloutputversion="1.05">
+<verbose level="0"/>
+<debugging level="0"/>
+<runstats><finished time="1774571946" timestr="Fri Mar 27 03:39:06 2026" summary="Nmap done at Fri Mar 27 03:39:06 2026; 0 IP addresses (0 hosts up) scanned in 0.02 seconds" elapsed="0.02" exit="success"/><hosts up="0" down="0" total="0"/>
+</runstats>
+</nmaprun>
